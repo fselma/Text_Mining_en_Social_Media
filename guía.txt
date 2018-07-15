@@ -1,0 +1,19 @@
+
+Material entregado por Fátima Selma Juan:
+
+- Presentación PechaKucha realizada por
+José Ignacio Marqués
+Teresa Benlloch
+Ramón Ferrer
+Fátima Selma
+
+- Presentación PechaKucha: textmining_SM_presentacion.pdf
+
+- Paper individual: Text Mining en Social Media (Fátima Selma).pdf
+
+- código R: presentacion.R --> modelos entrenados para presentación
+	
+
+
+
+
